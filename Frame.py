@@ -6,7 +6,7 @@ frame1 = Frame(root)
 frame1.pack()
 
 frame2 = Frame(root)
-frame2.pack(side=BOTTOM)
+frame2.pack(side=LEFT)
 
 button1 = Button(frame1, text="Click Here", fg="Green")
 button1.pack()
